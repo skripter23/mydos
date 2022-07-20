@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    background: #d6eaf8;
+}
+
+.container {
+    /* border: 1px black solid; */
+}
+
+#solution {
+    /* border: 2px #0f5a0b solid; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#loadData {
+    margin-top: 10px;
+    font-family: 'Calibri';
+}
+
+#loadData:hover {
+    cursor: pointer;
+    background-color: #d0d0d0;
+}
+
+.hledat {
+    font-family: 'Calibri';
+}
+
+.hledej {
+    font-family: 'Calibri';
+    margin-left: 5px;
+}
+
+.hledej:hover {
+    cursor: pointer;
+    background-color: #d0d0d0;
+}
+
+.hledej:disabled {
+    cursor: default;
+    background-color: azure;
+}
+
+.zadne {
+    font-family: 'Calibri';
+}
+
+.meli {
+    font-family: 'Calibri';
+}
+
+.linki {
+    font-family: 'Calibri';
+    text-decoration: none;
+}
+
+.linki:hover {
+    text-decoration: underline;
+}
+
+.nazev {
+    font-family: 'Calibri';
+}
+
+.nastupiste {
+    font-family: 'Calibri';
+    text-decoration: none;
+}
+
+.nastupiste:hover {
+    text-decoration: underline;
+}
+
+.type {
+    font-family: 'Calibri';
+}
